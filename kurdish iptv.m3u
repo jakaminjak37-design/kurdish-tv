@@ -1,0 +1,79 @@
+#EXTM3U
+
+#EXTINF:-1,SterkTV
+https://5dab1db4b25fe.streamlock.net/sterk/sterktv/chunklist_w558585070.m3u8
+
+#EXTINF:-2,Med Muzik TV
+http://54.36.110.140/live3/live3.m3u8
+
+#EXTINF:-3,WelatTV
+https://stream.badinan.xyz/welat/tv/chunklist_w1721419603.m3u8
+
+#EXTINF:-4,HALK TV
+https://halktv.daioncdn.net/halktv/halktv_360p.m3u8?sid=836oghq51cw9&app=c86957d3-74a7-44da-9ad2-dc358c769609&ce=3
+
+#EXTINF:-5,İlkeTV
+https://stream.ilketv.com.tr/hls/ilkecanli.m3u8
+
+#EXTINF:-6,RonahiTV
+https://hlspackager.akamaized.net/live/DB/RONAHI_TV/HLS/RONAHI_TV.m3u8
+
+#EXTINF:-7,Rudaw
+https://svs.itworkscdn.net/rudawlive/rudawlive.smil/rudawpublish/rudawtv_source/chunks.m3u8
+
+#EXTINF:-8,24
+https://d1x82nydcxndze.cloudfront.net/live/index_720p25.m3u8
+
+#EXTINF:-9,KURDMAX
+https://6476e46b58f91.streamlock.net/liveTrans/KURDB3388/chunklist_w2060950536.m3u8
+
+#EXTINF:-10,WAAR
+https://live.kwikmotion.com/waarmedialive/waarmedia.smil/playlist.m3u8
+
+#EXTINF:-11,KurdMax SHOW
+https://6476e46b58f91.streamlock.net/liveTrans/SHOWS123/chunklist_w472715186.m3u8
+
+#EXTINF:-11,GeleKurdistan
+https://live.host247.net/gk/gksat/chunklist_w1377661411.m3u8
+
+#EXTINF:-12,TRT Kurdi
+https://tv-trtkurdi.medya.trt.com.tr/master_1440.m3u8
+
+#EXTINF:-13,Kurdistan 24
+https://d1x82nydcxndze.cloudfront.net/live/index_720p25.m3u8
+
+#EXTINF:-14,Zarok TV
+https://zindikurmanci.zaroktv.com.tr/hls/stream.m3u8
+
+#EXTINF:-15,Ava Media TV
+https://familyhls.avatv.live/hls/stream.m3u8
+
+#EXTINF:-16,Kurdistan tv
+https://5a3ed7a72ed4b.streamlock.net/live/SMIL:myStream.smil/playlist.m3u8
+
+#EXTINF:-17,Khak TV
+http://bblserver.ddns.net:1935/stream/khakhd/playlist.m3u8
+
+#EXTINF:-18,Afarin HD TV
+https://65f16f0fdfc51.streamlock.net:443/afarinTV/livestream/playlist.m3u8
+
+#EXTINF:-19,Payam tv
+https://media2.streambrothers.com:1936/8218/8218/playlist.m3u8
+
+#EXTINF:-20,Gali Kurdistan TV
+https://live.host247.net/gk/gksat/playlist.m3u8
+
+#EXTINF:-21,Kirkuk Satellite TV
+https://live.kirkuklive.live/hls/stream/index.m3u8
+
+#EXTINF:-22,Nubar TV
+http://stream.nubar.tv:1935/private/NUBARtv/playlist.m3u8
+
+#EXTINF:-23,Haber 61 HD
+http://win8.yayin.com.tr/haber61tv/smil:haber61tv.smil/playlist.m3u8
+
+#EXTINF:-24,JIN TV
+https://live.jintv.org/medialive/jintv.m3u8
+
+#EXTINF:-2,GZT TV
+https://mn-nl.mncdn.com/gzttv/gzttv/playlist.m3u8
